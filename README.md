@@ -11,7 +11,7 @@
 1. **试用期限与邀请码**：
    - 当前版本为 **3 天试用 Beta 版**。
    - 首次使用需向开发者申请内测邀请码方可试用 3 天。
-   - 申请方式：请发送邮件至 **[redacted]** 申请邀请码。
+   - 申请方式：请通过 GitHub Issues 联系项目维护者。
 2. **网络环境**：
    - 部分服务请求需要保持良好网络连接或使用代理工具（魔法网络）访问。
 3. **免责与合规声明**：
@@ -43,5 +43,4 @@
 
 ## 📬 反馈与联系
 
-- 官方网站：[[personal website removed]](https://[personal website removed]/apps/woaiqiandao)
-- 开发者邮箱：`[redacted]`
+- 反馈与问题：请通过 GitHub Issues 提交。
